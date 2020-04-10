@@ -14,6 +14,8 @@ warnings.filterwarnings("ignore")
 
 #Default save directory
 programa_dir = os.getcwd()
+print("Youtube mp4,mp3 Extractor made by Hoplin.")
+print("This program is open source and protected by MIT License.(https://github.com/J-hoplin1/Youtube-Extractor)\n\n\n")
 print("Directory will be generated in : ",programa_dir)
 YTURL = input("Enter Youtube URL : ")
 os.system('cls')
@@ -30,7 +32,7 @@ if ckP:
     for ot in range(len(options)):
         # value like this : ['<Stream:', 'itag="18"', 'mime_type="video/mp4"', 'res="360p"', 'fps="30fps"', 'vcodec="avc1.42001E"', 'acodec="mp4a.40.2"', 'progressive="True"', 'type="video">']
         optList = str(options[ot]).split(' ')
-        print(ot+1, '. ' + "MIME Type : " + optList[2].split("\"")[1] + " | " + "RES : " + optList[3].split("\"")[1] + " | " + "VCodec : " + optList[5].split("\"")[1] + " | " + "ACodec : " + optList[6].split("\"")[1] + " | " + "Type : " + optList[-1].split("\"")[1])
+        print(ot+1, '. ' + "MIME Type : " + optList[2].split("\"")[1] + " | " + "RES : " + optList[3].split("\"")[1] + " | " + "VCodec : " + optList[5].split("\"")[1] + " | " + "ACodec : " + optList[6].split("\"")[1] + " | " + "Type : " + optList[-1].split("\"")[1] + "\n")
     opNum = int(input("\nEnter option Number : "))
     os.system('cls')
     try:
