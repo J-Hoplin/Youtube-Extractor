@@ -9,7 +9,7 @@ import re
 import os
 import warnings
 import shutil
-import moviepy.editor as mp
+from moviepy.video.io.VideoFileClip import VideoFileClip
 warnings.filterwarnings("ignore")
 
 #Default save directory
@@ -40,7 +40,7 @@ if ckP:
         regenerateDefaultDir = programa_dir+"\\" + defaultfilename.split('.mp4')[0]
         options[opNum - 1].download(regenerateDefaultDir)
         print("Video file(.mp4) download complete....")
-        clip = mp.VideoFileClip(regenerateDefaultDir+"\\"+defaultfilename)
+        clip = VideoFileClip(regenerateDefaultDir+"\\"+defaultfilename)
         clip.audio.write_audiofile(regenerateDefaultDir+"\\"+defaultfilename.split('.mp4')[0] + ".mp3")
         print("Music file(.mp3) download complete....")
         print("Download Completed")
@@ -52,6 +52,8 @@ if ckP:
         print("Error : Unexpected critical error. Can't re-encode File.")
         os.system('cls')
         time.sleep(1.5)
+    except FileExistsError as e:
+        print("Error : Already existing directory name - ",defaultfilename.split('.mp4')[0])
 #if pattern not correct
 else:
     print("Wrong types of Youtube Link. Please check again.")
