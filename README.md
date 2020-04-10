@@ -6,8 +6,6 @@ Youtube mp3,mp4 Extractor
 - IDE : Jetbrain Pycharm
 
 - What for? : To extract mp3,mp4 files from youtube
-
-- exe file link : https://drive.google.com/open?id=16bwTQOdFO8KfHlXYDni5J-TlgL56Kf7w
 ***
 
 1. It'll take some time when execute program for the first time.
