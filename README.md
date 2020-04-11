@@ -11,6 +11,10 @@ Youtube mp3,mp4 Extractor
 
 - **Warning : You shouldn't use openly or share downloaded mp3 or mp4 files. If you violate this, you can be punished by copyright law.** 
 ***
+- ACodec False meadns, that it has no audio.
+
+- VCodec False means, that it has no video
+***
 
 1. It'll take some time when execute program for the first time.
 
