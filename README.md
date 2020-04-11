@@ -11,18 +11,19 @@ Youtube mp3,mp4 Extractor
 
 - **Warning : You shouldn't use openly or share downloaded mp3 or mp4 files. If you violate this, you can be punished by copyright law.** 
 ***
-- 20200411 Patch Note
-
-    - Exception Handling
-    
-    - Unexpected bug fix
-
-***
 - ACodec False meadns, that types of download has no audio.
 
 - VCodec False means, that types of download has no video
 
 - Recommend to download - VCodec : avc1 , ACodec : mp4a option
+
+- When you want to delete video file but makes error 'ffmpeg-win64', check if extractor program is closed
+***
+- 20200411 Patch Note
+
+    - Exception Handling
+    
+    - Unexpected bug fix
 ***
 
 1. It'll take some time when execute program for the first time.
