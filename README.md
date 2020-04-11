@@ -14,6 +14,8 @@ Youtube mp3,mp4 Extractor
 - ACodec False meadns, that types of download has no audio.
 
 - VCodec False means, that types of download has no video
+
+- Recommend to download - VCodec : avc1 , ACodec : mp4a option
 ***
 
 1. It'll take some time when execute program for the first time.
