@@ -24,6 +24,12 @@ Youtube mp3,mp4 Extractor
     - Exception Handling
     
     - Unexpected bug fix
+
+- 20200411 Patch Note
+
+    - Add more exception handling
+    
+    - Able to check if selected option is correct
 ***
 
 1. It'll take some time when execute program for the first time.
