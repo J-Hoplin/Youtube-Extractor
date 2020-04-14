@@ -32,7 +32,7 @@ while loop:
     else:
         os.system('cls')
         # Check URL Link Pattern
-        YTURLPattern = re.compile("https\:\/\/www\.youtube\.com\/watch[A-Za-z?=.&_#$]*") # Youtube Link Regex Boolean
+        YTURLPattern = re.compile("https\:\/\/www\.youtube\.com\/watch[A-Za-z0-9?=.&_#$]*") # Youtube Link Regex Boolean
         ckP = YTURLPattern.match(YTURL)
 
         # if Patter correct
