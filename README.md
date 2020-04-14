@@ -1,5 +1,7 @@
 Youtube mp3,mp4 Extractor
 ===
+**소스코드를 가져가서 쓰시되, 출처를 꼭 밝히고 쓰시길 바랍니다**
+
 ***
 - Language : Python3(Version 3.7.6)
 
