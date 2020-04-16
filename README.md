@@ -11,7 +11,7 @@ Youtube mp3,mp4 Extractor
 
 - **Warning : You shouldn't use openly or share downloaded mp3 or mp4 files. If you violate this, you can be punished by copyright law.** 
 ***
-**법률사항 (Legal Matters)**
+**유튜브 정책약관에 따른 법률사항 (Legal Matters according to Youtube policies)**
 
 - **해당 소프트웨어 제작자 hoplin은 기술적 수단만 제공할 뿐, 이 소프트웨어를 이용하는 과정에서 발생하는 위법행위에 대한 책임은  사용자가 100%책임져야합니다.**
 
