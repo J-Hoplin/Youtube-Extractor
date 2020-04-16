@@ -13,6 +13,10 @@ Youtube mp3,mp4 Extractor
 
 - **Warning : You shouldn't use openly or share downloaded mp3 or mp4 files. If you violate this, you can be punished by copyright law.** 
 ***
+**법률사항 (Legal Matters)**
+
+- **The software creator Hoplin provides only technical means, and the user shall be 100% responsible for any misconduct arising from the use of the software.**
+***
 - ACodec False meadns, that types of download has no audio.
 
 - VCodec False means, that types of download has no video
