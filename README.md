@@ -11,6 +11,8 @@ Youtube mp3,mp4 Extractor
 
 - **Warning : You shouldn't use openly or share downloaded mp3 or mp4 files. If you violate this, you can be punished by copyright law.** 
 ***
+- **This is just my toy project. Do not use this software in bad intention**
+
 - **I highly recommend to [Youtube Premium](https://www.youtube.com/premium) payment to save videos and listen as mp3.**
 
 - **이 프로그램 대신 유튜브 프리미엄 사용을 강력히 권장드립니다.**
