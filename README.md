@@ -15,6 +15,8 @@ Youtube mp3,mp4 Extractor
 ***
 **법률사항 (Legal Matters)**
 
+- **해당 소프트웨어 제작자 hoplin은 기술적 수단만 제공할 뿐, 이 소프트웨어를 이용하는 과정에서 발생하는 위법행위에 대한 책임은  사용자가 100%책임져야합니다.**
+
 - **The software creator Hoplin provides only technical means, and the user shall be 100% responsible for any misconduct arising from the use of the software.**
 ***
 - ACodec False meadns, that types of download has no audio.
